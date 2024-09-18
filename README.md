@@ -19,9 +19,15 @@ git branch: Lista todas as branches (ramificações) do repositório. Você tamb
 
 git checkout <branch>: Muda para uma branch específica. Usado para alternar entre diferentes linhas de desenvolvimento.
 
-Para incializar o GIT em um novo repositorio: git init
+Para incializar o GIT em um novo repositorio: git init 
+
 Para adicionar as alterações realizadas no repositorio: git add
+
 Para gravar as alterações: git commit -m
+
 Para enviar as alterações para a nuvem/repositorio online: git push
+
 Se o repositorio em meu omputador estiver desatualizado, como faço para atualiza-lo?: git pull  
+
 Lembrano que, estarei atualizando com base no repositorio salvo no GitHub.
+
